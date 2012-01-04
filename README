@@ -1,0 +1,83 @@
+
+The George Kingsley Zipf AI Engine: Tic Tac Toe
+
+
+A. To play
+
+	Download the contents of this repository in a folder f
+
+	Open a terminal
+
+	cd /whateverpathto/f/
+
+	type 
+		python play.py
+
+
+		You will notice that you always move first,
+		and George Kingsley Zipf always moves second;
+		this was to attack the problem of no-losses 
+		starting with the disadvantaged player two.
+		If this could be done, the solution would naturally
+		carry to the advantaged player one as well.
+		The program is flexible enough to make George
+		move first, which is actually done in some of
+		the tests (see below).
+
+
+B. To run tests
+
+	Again open a terminal and change directories 
+	into f/
+
+	type
+		(your favorite editor) testgames.py
+	
+	follow the comments in the code to 
+	unblock-out tests you desire to run, and save
+
+	type
+		python testgames.py
+
+
+C. Documentation
+
+	View Engine.pdf
+	
+		for details on the Decision making, the recursion,
+		and for in-depth statistics on the AI
+
+	View Tests.pdf
+		
+		for demonstration of the AI's fabulously 
+		aggressive strategy and
+		for an informal proof of the solution's completeness
+
+	Each function is also documented in the code
+
+
+D. About George Kingsley Zipf
+
+	Open the About_Zipf folder
+		
+		includes: 
+		a picture of George Kingsley Zipf himself!
+		a short collection of biographies of statistical 
+			linguists that I personally wrote, 
+			which includes a nice description of George 
+			Kingsley Zipf's personal history.
+
+
+
+			 
+
+
+
+
+
+
+
+
+
+
+
